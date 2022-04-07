@@ -24,7 +24,7 @@
                   role="submit"
                   class="btn btn-primary text-dark btn-block"
                 >
-                  Search Results
+                  Search
                 </button>
               </div>
             </div>
