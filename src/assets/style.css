@@ -1,0 +1,10 @@
+html {
+  overflow-x: hidden;
+}
+.vue-notification {
+    margin: 0 5px 5px;
+    padding: 10px;
+    font-size: 18px !important;
+    color: #ffffff;
+    text-align: center !important;
+  }

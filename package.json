@@ -1,0 +1,30 @@
+{
+  "name": "rijksmuseum",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@kyvg/vue3-notification": "^2.3.4",
+    "@popperjs/core": "^2.11.4",
+    "axios": "^0.26.1",
+    "bootstrap": "^5.1.3",
+    "infinite-loading-vue3": "^1.0.1",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.2",
+    "v-animate-css": "0.0.5",
+    "vee-validate": "^4.5.10",
+    "vue": "^3.2.25",
+    "vue-infinite-loading": "^2.4.5",
+    "vue-router": "^4.0.14",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.0",
+    "sass": "^1.49.11",
+    "vite": "^2.9.0"
+  }
+}
