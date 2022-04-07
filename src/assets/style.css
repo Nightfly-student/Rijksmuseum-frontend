@@ -1,7 +1,9 @@
 html,
 body {
   height: 101%;
-  overflow-x: hidden;
+}
+#app {
+  overflow: hidden;
 }
 .vue-notification {
     margin: 0 5px 5px;
